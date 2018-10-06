@@ -1,5 +1,9 @@
 # timestables
 
+Experiment with [Choo](https://choo.io/) and a chance to practice our timestables.
+
+A work in progress and full of bugs. 
+
 
 ## Commands
 Command                | Description                                      |
